@@ -1,5 +1,5 @@
 function nameClothes(cloth: string) {
-  console.log("Here is a: ", cloth);
+  console.log("Here is a:", cloth);
 }
 
 (function main() {
