@@ -1,3 +1,7 @@
+function nameClothes(cloth: string) {
+  console.log("Here is a: ", cloth);
+}
+
 (function main() {
-  console.log("Hola Jose");
-})()
+  nameClothes("Shirt");
+})();
