@@ -16,5 +16,7 @@ function nameClothStore(cloth: string, storage: string) {
 
 (function main() {
 	nameClothes("Shirt");
+	nameClothColor("Jean", "blue");
+	nameClothSize("Short", "M");
 	nameClothStore("Jacket", "Wardrobe");
 })();
