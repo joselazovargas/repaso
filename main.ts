@@ -11,7 +11,7 @@ function nameClothSize(cloth: string, size: string) {
 }
 
 function nameClothStore(cloth: string, storage: string) {
-	console.log("The", cloth, "can be found in the", storage);
+	console.log("The", cloth, "is stored in the", storage);
 }
 
 (function main() {
